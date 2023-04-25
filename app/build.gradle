@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.av.avmessenger'
+    namespace 'com.av.messagingapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.av.avmessenger"
+        applicationId "com.av.messagingapp"
         minSdk 16
         multiDexEnabled true
         targetSdk 33
