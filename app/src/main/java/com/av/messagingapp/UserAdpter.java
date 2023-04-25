@@ -1,4 +1,4 @@
-package com.av.avmessenger;
+package com.av.messagingapp;
 
 import android.content.Context;
 import android.content.Intent;
