@@ -1,4 +1,4 @@
-package com.av.avmessenger;
+package com.av.messagingapp;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
