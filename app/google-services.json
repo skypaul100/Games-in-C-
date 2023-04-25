@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "936494095561",
-    "project_id": "av-messenger-dc8f3",
-    "storage_bucket": "av-messenger-dc8f3.appspot.com"
+    "project_number": "1234",
+    "project_id": "messaging-app-1234",
+    "storage_bucket": "messaging-app-1234.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:936494095561:android:4d1bea30267042f0a4c118",
         "android_client_info": {
-          "package_name": "com.av.avmessenger"
+          "package_name": "com.av.messagingapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "936494095561-7fru4bqd3l5khgr6jsposog1tn4huc9h.apps.googleusercontent.com",
+          "client_id": "1234-7fru4bqd3l5khgr6jsposog1tn4huc9h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQY3xfEFrotwEt-ZbH661OIKjvKneAFUg"
+          "current_key": "******"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "936494095561-7fru4bqd3l5khgr6jsposog1tn4huc9h.apps.googleusercontent.com",
+              "client_id": "1234-***.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
