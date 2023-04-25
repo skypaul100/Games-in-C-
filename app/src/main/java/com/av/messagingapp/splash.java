@@ -50,6 +50,6 @@ public class splash extends AppCompatActivity {
               startActivity(intent);
               finish();
           }
-      },4000);
+      },3000);//3sec to run animation
     }
 }
