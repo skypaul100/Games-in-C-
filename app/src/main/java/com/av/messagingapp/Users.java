@@ -1,4 +1,4 @@
-package com.av.avmessenger;
+package com.av.messagingapp;
 
 public class Users {
     String profilepic,mail,userName,password,userId,lastMessage,status;
